@@ -8,7 +8,7 @@ if exists("g:loaded_quickfixstatus") || &cp
       finish
 endif
 
-let g:loaded_quickfixstatus = 100
+let g:loaded_quickfixstatus = 101
 let s:keepcpo           = &cpo
 set cpo&vim
 
